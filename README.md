@@ -5,7 +5,7 @@
 
 部分原件参考了他人的设计
 
-现已完成:[***数电加法器***](https://github.com/jasonxue1/MCBE-Redstone-Calculator/edit/main/README.md#%E6%95%B0%E7%94%B5%E5%8A%A0%E6%B3%95%E5%99%A8),***模电减法器***
+现已完成:[***数电加法器***](https://github.com/jasonxue1/MCBE-Redstone-Calculator/blob/main/README.md#%E6%95%B0%E7%94%B5%E5%8A%A0%E6%B3%95%E5%99%A8),***模电减法器***
 # 原理/流程
 ## 数电加法器
 ### 1.0
