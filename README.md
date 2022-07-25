@@ -1,6 +1,7 @@
 # 简介
 由jasonxue自制的mc基岩版红石计算器  
 存档在release中下载  
+这里的版本号规则在[***此处***](https://github.com/jasonxue1/MCBE-Redstone-Calculator/blob/main/resource/version.md)
 布线稍加改变后java版也可使用  
 部分原件参考了他人的设计,我已完全署名原作者,未标注的均为我自己所设计(如有雷同,均属巧合)  
 
@@ -12,7 +13,7 @@
 2台拉杆选择器输入0-9(两个加数)  
 8台1进4出编码器转换二进制(0000-1001)  
 二进制利用4个全加器进行加法运算这里的全加器采用了[***此设计***](https://www.bilibili.com/video/BV1xK411J76y)
-我写了一个全加器的介绍,可以参考
+我写了一个[***全加器的介绍***](https://github.com/jasonxue1/MCBE-Redstone-Calculator/blob/main/resource/qjqjs.md),可以参考
 
 第4个全加器的前输出口为第五位结果  
 输出的取值为0-18(00000-10010)  
