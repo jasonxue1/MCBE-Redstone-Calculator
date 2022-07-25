@@ -1,6 +1,6 @@
 # 简介
 由jasonxue自制的mc基岩版红石计算器  
-存档在[***Releases中下载***](https://github.com/jasonxue1/MCBE-Redstone-Calculator/releases)  
+存档在[***Releases***](https://github.com/jasonxue1/MCBE-Redstone-Calculator/releases)中下载  
 这里的版本号规则在[***此处***](https://github.com/jasonxue1/MCBE-Redstone-Calculator/blob/main/resource/version.md)
 布线稍加改变后java版也可使用  
 部分原件参考了他人的设计,我已完全署名原作者,未标注的均为我自己所设计(如有雷同,均属巧合)  
