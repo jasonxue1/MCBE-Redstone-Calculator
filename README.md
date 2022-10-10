@@ -12,7 +12,8 @@
 仅支持1位运算  
 2台拉杆选择器输入`0-9`(两个加数)  
 8台1进4出编码器转换二进制(`0000-1001`)  
-二进制利用4个全加器进行加法运算这里的全加器采用了[***此视频中的设计***](https://www.bilibili.com/video/BV1xK411J76y)  
+利用4个全加器进行加法运算  
+这里的全加器采用了[***此视频中的设计***](https://www.bilibili.com/video/BV1xK411J76y)  
 我写了一个[***全加器的介绍***](https://github.com/jasonxue1/MCBE-Redstone-Calculator/blob/main/resource/qjqjs.md),可以参考
 
 第4个全加器的前输出口为第五位结果  
